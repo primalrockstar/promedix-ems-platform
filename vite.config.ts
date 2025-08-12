@@ -6,5 +6,18 @@ export default defineConfig({
   server: {
     port: 5173,
     open: true
+  },
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: undefined
+      }
+    },
+    commonjsOptions: {
+      include: /node_modules/,
+    }
+  },
+  optimizeDeps: {
+    include: ['react', 'react-dom']
   }
 })

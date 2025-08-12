@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tinyurl.com/SWEMT/sitemap.xml
