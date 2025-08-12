@@ -1,0 +1,57 @@
+# Chapter 32: Orthopedic Injuries Essentials
+
+## Introduction to Orthopedic Injuries
+
+Orthopedic injuries involve bones, joints, muscles, and connective tissues. Proper assessment, immobilization, and pain management prevent further complications and disability.
+
+### Key Components of Orthopedic Assessment:
+- **Mechanism of injury**: Direct force, indirect force, twisting mechanisms
+- **Neurovascular assessment**: Pulse, motor function, sensation distal to injury
+- **Deformity recognition**: Angulation, shortening, rotation abnormalities
+- **Pain and swelling**: Location, severity, associated symptoms
+
+### EMT-B Orthopedic Scope:
+- Fracture and dislocation immobilization using splints
+- Neurovascular assessment before and after splinting
+- Pain management through proper positioning and immobilization
+- Bleeding control from open fractures
+- Cold application for swelling reduction
+- Patient transport with appropriate positioning
+
+### Fracture Classifications:
+- **Closed fractures**: Skin integrity maintained, no external bleeding
+- **Open fractures**: Bone protrudes or skin broken over fracture site
+- **Displaced fractures**: Bone ends not aligned properly
+- **Comminuted fractures**: Bone broken into multiple pieces
+
+### Splinting Principles:
+- **Immobilize joint above and below**: Include adjacent joints in splint
+- **Assess neurovascular status**: Check pulse, motor, sensation before and after
+- **Pad pressure points**: Prevent pressure sores and discomfort
+- **Secure firmly**: Prevent movement while maintaining circulation
+
+### Common Orthopedic Injuries:
+- **Upper extremity**: Clavicle, humerus, radius, ulna fractures
+- **Lower extremity**: Femur, tibia, fibula, ankle fractures
+- **Spine injuries**: Cervical, thoracic, lumbar vertebrae
+- **Pelvis fractures**: High-energy trauma, potential for severe bleeding
+
+### Neurovascular Assessment:
+- **Pulse check**: Radial, ulnar, dorsalis pedis, posterior tibial
+- **Motor function**: Ability to move fingers, toes, grip strength
+- **Sensation**: Light touch, sharp/dull discrimination
+- **Capillary refill**: <2 seconds normal, >2 seconds abnormal
+
+### Special Considerations:
+- **Femur fractures**: Potential for significant blood loss, shock risk
+- **Pelvic fractures**: Assess for internal bleeding, stabilize with sheet
+- **Joint dislocations**: Immobilize in position found, do not reduce
+- **Amputations**: Control bleeding, preserve amputated part
+
+### Splinting Materials:
+- **Rigid splints**: Board splints, vacuum splints, commercial devices
+- **Soft splints**: Pillows, blankets, slings for support
+- **Traction splints**: Specific for femur fractures with protocols
+- **Improvised splints**: Magazines, newspapers, sticks when needed
+
+Orthopedic injury management prioritizes neurovascular preservation, proper immobilization, pain control, and prevention of further injury through appropriate splinting techniques and patient handling.

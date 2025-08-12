@@ -1,0 +1,61 @@
+# Chapter 15: Medical Overview Essentials - Flashcards
+
+## Card 1
+**Q:** What does the acronym ABC stand for in primary assessment?
+**A:** Airway, Breathing, Circulation.
+
+## Card 2
+**Q:** What does OPQRST stand for in pain assessment?
+**A:** Onset, Provocation, Quality, Radiation, Severity, Time.
+
+## Card 3
+**Q:** What does SAMPLE stand for in history taking?
+**A:** Signs/symptoms, Allergies, Medications, Past medical history, Last meal, Events.
+
+## Card 4
+**Q:** What are the three categories of medical assessment priorities?
+**A:** Life-threatening conditions, Urgent conditions, Non-urgent conditions.
+
+## Card 5
+**Q:** Give examples of life-threatening conditions.
+**A:** Airway compromise, respiratory failure, shock.
+
+## Card 6
+**Q:** What is the normal adult systolic blood pressure range?
+**A:** 90-140 mmHg.
+
+## Card 7
+**Q:** What is the normal adult diastolic blood pressure range?
+**A:** 60-90 mmHg.
+
+## Card 8
+**Q:** What is the normal adult pulse rate?
+**A:** 60-100 beats per minute.
+
+## Card 9
+**Q:** What is the normal adult respiratory rate?
+**A:** 12-20 breaths per minute.
+
+## Card 10
+**Q:** What is the normal temperature range?
+**A:** 98.6°F (37°C) ± 1°F normal range.
+
+## Card 11
+**Q:** What oxygen saturation level is considered normal?
+**A:** 95-100% on room air.
+
+## Card 12
+**Q:** What are examples of urgent medical conditions?
+**A:** Chest pain, altered mental status, severe pain.
+
+## Card 13
+**Q:** What are examples of non-urgent medical conditions?
+**A:** Minor injuries, stable chronic conditions.
+
+## Card 14
+**Q:** What is included in EMT-B medical scope for assessment?
+**A:** Patient assessment using systematic approach, basic airway management, oxygen therapy, medication assistance, CPR/AED, basic wound care.
+
+## Card 15
+**Q:** What is the primary focus of medical emergency management?
+**A:** Rapid recognition, appropriate intervention, and timely transport to definitive care.

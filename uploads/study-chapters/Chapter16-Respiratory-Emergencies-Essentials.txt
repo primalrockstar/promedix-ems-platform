@@ -1,0 +1,45 @@
+# Chapter 16: Respiratory Emergencies Essentials
+
+## Introduction to Respiratory Emergencies
+
+Respiratory emergencies are life-threatening conditions requiring immediate assessment and intervention. The respiratory system delivers oxygen to tissues and removes carbon dioxide waste.
+
+### Key Components of Respiratory Assessment:
+- **Airway patency**: Clear, maintainable airway
+- **Breathing adequacy**: Rate, depth, and effort assessment
+- **Gas exchange**: Oxygen saturation monitoring
+- **Circulation support**: Perfusion to respiratory muscles
+
+### EMT-B Respiratory Scope:
+- Airway opening maneuvers (head-tilt, jaw-thrust)
+- Oxygen administration via nasal cannula or mask
+- Bag-valve-mask ventilation assistance
+- Airway adjuncts (oral and nasal airways)
+- Pulse oximetry monitoring
+- Position of comfort for breathing
+
+### Common Respiratory Emergencies:
+- **Asthma**: Bronchospasm with wheezing, shortness of breath
+- **COPD**: Chronic obstructive pulmonary disease exacerbation
+- **Pneumonia**: Infection causing fever, productive cough
+- **Pulmonary edema**: Fluid in lungs, often cardiac-related
+
+### Respiratory Distress Signs:
+- **Mild distress**: Slight increase in respiratory rate, minimal accessory muscle use
+- **Moderate distress**: Obvious breathing difficulty, use of accessory muscles
+- **Severe distress**: Tripod positioning, cyanosis, altered mental status
+- **Respiratory failure**: Inadequate ventilation, requires immediate intervention
+
+### Oxygen Therapy Guidelines:
+- Nasal cannula: 1-6 LPM (24-44% oxygen)
+- Simple face mask: 6-10 LPM (35-60% oxygen)
+- Non-rebreather mask: 10-15 LPM (60-95% oxygen)
+- Bag-valve-mask: 15 LPM with reservoir (nearly 100% oxygen)
+
+### Normal Respiratory Values:
+- Adult rate: 12-20 breaths per minute
+- Pediatric rate: 15-30 breaths per minute
+- Infant rate: 25-50 breaths per minute
+- Tidal volume: 500-800 mL per breath (adult)
+
+Respiratory emergency management emphasizes early recognition, appropriate oxygen therapy, and rapid transport while maintaining airway patency and adequate ventilation.

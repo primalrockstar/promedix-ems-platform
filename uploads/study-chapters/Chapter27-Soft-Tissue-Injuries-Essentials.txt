@@ -1,0 +1,57 @@
+# Chapter 27: Soft-Tissue Injuries Essentials
+
+## Introduction to Soft-Tissue Injuries
+
+Soft-tissue injuries involve damage to skin, muscles, blood vessels, and nerves. Proper assessment and management prevent complications and promote healing.
+
+### Key Components of Soft-Tissue Assessment:
+- **Injury classification**: Closed vs. open wounds
+- **Wound severity**: Depth, size, and location assessment
+- **Contamination level**: Clean vs. dirty wounds
+- **Associated injuries**: Underlying structures involvement
+
+### EMT-B Soft-Tissue Scope:
+- Wound cleaning and irrigation with sterile saline
+- Sterile dressing application and bandaging
+- Bleeding control using direct pressure
+- Pain management through positioning and support
+- Infection prevention using universal precautions
+- Tetanus status documentation when possible
+
+### Open Wound Types:
+- **Abrasions**: Superficial scraping injuries, minimal bleeding
+- **Lacerations**: Clean cuts through skin layers
+- **Punctures**: Deep, narrow wounds with minimal external bleeding
+- **Avulsions**: Tissue torn away, may have flap present
+
+### Closed Injury Types:
+- **Contusions**: Bruising without skin break
+- **Hematomas**: Blood collection under skin
+- **Crush injuries**: Extensive tissue damage from compression
+- **Compartment syndrome**: Pressure buildup in muscle compartments
+
+### Wound Care Principles:
+- **Universal precautions**: Gloves, eye protection, appropriate barriers
+- **Hemorrhage control**: Direct pressure, elevation when appropriate
+- **Cleaning**: Remove visible debris, irrigate with sterile saline
+- **Dressing**: Sterile gauze pads, secure with bandages
+
+### Special Considerations:
+- **Impaled objects**: Stabilize in place, do not remove
+- **Amputations**: Control bleeding, preserve amputated part
+- **Burns**: Cool with water, cover with sterile dressings
+- **Animal bites**: Clean thoroughly, document for rabies evaluation
+
+### Infection Prevention:
+- **Sterile technique**: Use sterile supplies when available
+- **Wound irrigation**: Remove debris and contaminants
+- **Proper bandaging**: Keep wound clean and dry
+- **Patient education**: Signs of infection, follow-up care importance
+
+### Documentation Requirements:
+- Wound location, size, and depth
+- Mechanism of injury and time of occurrence
+- Treatment provided and patient response
+- Tetanus immunization status if known
+
+Soft-tissue injury management emphasizes bleeding control, infection prevention, proper wound care, and appropriate documentation while maintaining sterile technique and patient comfort.

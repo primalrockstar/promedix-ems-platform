@@ -1,0 +1,81 @@
+{
+  "title": "ALS Assist - EMT Support for Advanced Life Support",
+  "description": "Essential knowledge for EMTs assisting paramedics with ALS interventions including IV therapy, medication administration, cardiac monitoring, and airway management",
+  "flashcards": [
+    {
+      "id": "als_assist_1",
+      "question": "What are the key EMT tasks when assisting with IV setup for ALS providers?",
+      "answer": "Gather supplies (IV catheter 18-22G, saline bag 500-1000mL, tubing, tape, tourniquet, alcohol wipes), spike IV bag and prime tubing to remove air, assist with site preparation by holding limb or applying tourniquet, and monitor for complications like infiltration. EMTs cannot insert IV catheters or adjust drip rates - only prepare equipment."
+    },
+    {
+      "id": "als_assist_2",
+      "question": "What medications can EMTs administer independently during ALS calls, and what are the adult doses?",
+      "answer": "Naloxone: 0.4-2mg IN/IM for opioid overdose; Epinephrine: 0.3mg IM for anaphylaxis; Oral glucose: 15-30g for hypoglycemia; Albuterol: 2.5mg nebulized for bronchospasm; Aspirin: 160-325mg oral for suspected MI; Oxygen: 10-15 L/min for hypoxia/shock. Always follow Six Rights and verify with paramedic."
+    },
+    {
+      "id": "als_assist_3",
+      "question": "How should EMTs assist with cardiac monitoring and what are the electrode placements for a 3-lead ECG?",
+      "answer": "3-lead placement: RA (right arm, white), LA (left arm, black), LL (left leg, red). Clean skin with alcohol, ensure electrode adhesion, monitor for lead detachment or artifacts. For defibrillation, attach pads (anterior-apex), ensure 'All clear!' before shock, provide CPR if needed (100-120 compressions/min). EMTs do not interpret ECGs or set defibrillator parameters."
+    },
+    {
+      "id": "als_assist_4",
+      "question": "What are the EMT's airway management responsibilities when assisting with advanced airway procedures?",
+      "answer": "Basic airway: Open with head-tilt/chin-lift (no trauma) or jaw-thrust (trauma), suction secretions, insert OPA/NPA if unconscious, provide oxygen via appropriate device. Advanced airway assist: Prepare equipment (ET tube, laryngoscope), provide BVM ventilations during intubation (1 breath every 5-6 sec adult), secure tube post-intubation, monitor SpO2 and capnography if trained."
+    },
+    {
+      "id": "als_assist_5",
+      "question": "What is the SBAR format for patient handoff and why is it important in ALS situations?",
+      "answer": "SBAR: Situation (current issue), Background (history), Assessment (vitals/findings), Recommendation (next steps). Example: 'Situation: 30-year-old anaphylaxis, epinephrine given. Background: Bee sting, known allergy. Assessment: BP 90/60, SpO2 94%, wheezing improved. Recommendation: Transport to ER, monitor airway.' Ensures structured, complete communication between EMT, ALS, and hospital staff."
+    },
+    {
+      "id": "als_assist_6",
+      "question": "What are the key pediatric considerations when assisting with ALS interventions?",
+      "answer": "Use smaller equipment: 22-24G IV catheters, 500mL saline bags, pediatric electrodes/BVM/oxygen masks. Weight-based dosing: naloxone 0.1mg/kg (max 2mg), epinephrine 0.15mg (<30kg). Use Broselow tape for sizing. Smaller tidal volumes (6-8mL/kg), avoid over-ventilation. Monitor age-specific vitals: child pulse 70-120, infant 100-160 bpm. Include weight in handoff communications."
+    },
+    {
+      "id": "als_assist_7",
+      "question": "What are the Six Rights of medication administration that EMTs must verify?",
+      "answer": "Right Patient (verify identity), Right Medication (check label/expiration), Right Dose (confirm amount), Right Route (IM/IN/oral/inhalation), Right Time (appropriate timing), Right Documentation (record in PCR). Always verify with paramedic before preparing or administering any medication. Essential for patient safety and legal protection."
+    },
+    {
+      "id": "als_assist_8",
+      "question": "How should EMTs communicate effectively with paramedics during ALS interventions?",
+      "answer": "Use clear, concise language ('IV supplies ready, 1000mL saline spiked'), employ closed-loop communication ('You said 1000mL saline, correct?'), anticipate needs (have equipment ready), report observations (vital signs, patient responses), follow paramedic lead, ask for clarification if unsure. Proactive communication prevents delays and errors."
+    },
+    {
+      "id": "als_assist_9",
+      "question": "What is the AIDS mnemonic for remembering ALS assist tasks?",
+      "answer": "AIDS: Airway (suction, adjuncts, BVM ventilation), IV (setup, prime tubing, assist with site prep), Drugs (prepare medications, administer EMT-authorized drugs), Support (cardiac monitoring, communication, equipment preparation). Helps EMTs remember their key support roles during ALS interventions while staying within scope of practice."
+    },
+    {
+      "id": "als_assist_10",
+      "question": "What are the contraindications and considerations for naloxone administration in ALS assist situations?",
+      "answer": "Contraindications: Known allergy to naloxone, risk of precipitating severe withdrawal. Dose: Adult 0.4-2mg IN/IM, pediatric 0.1mg/kg (max 2mg). Monitor for: Improved respirations, return of consciousness, potential agitation/withdrawal symptoms. May need repeat dosing. Document time, dose, route, and patient response. Can be life-saving in opioid overdose."
+    },
+    {
+      "id": "als_assist_11",
+      "question": "How should EMTs prepare and assist with defibrillation during cardiac arrest?",
+      "answer": "Attach defibrillator pads (anterior-apex or anterior-posterior placement), ensure proper adhesion, confirm 'Pads attached, ready to clear' to paramedic. During charging/shock: Ensure 'All clear!' - no one touching patient, bed, or equipment. Immediately resume CPR after shock if indicated. Monitor for rhythm changes. EMTs do not operate defibrillator controls or interpret rhythms."
+    },
+    {
+      "id": "als_assist_12",
+      "question": "What are the key differences between adult and pediatric IV setup assistance?",
+      "answer": "Adult: 1000mL saline, 18-20G catheters, standard fluid rates. Pediatric: 500mL saline bags, 22-24G catheters, fluid boluses 20mL/kg, use Broselow tape for sizing. Smaller veins require more careful site preparation, gentle handling. Monitor for infiltration more closely due to smaller vessels. Document weight-based calculations and pediatric-specific equipment used."
+    },
+    {
+      "id": "als_assist_13",
+      "question": "What airway adjuncts can EMTs insert and what are the sizing guidelines?",
+      "answer": "Oropharyngeal Airway (OPA): Measure from mouth corner to jaw angle, only in unconscious patients (gag reflex absent). Nasopharyngeal Airway (NPA): Measure from nose to earlobe, can use in conscious patients. Insert with bevel toward septum, lubricate. Monitor for proper positioning, bleeding, or obstruction. Use pediatric sizes for children based on Broselow tape."
+    },
+    {
+      "id": "als_assist_14",
+      "question": "What should EMTs monitor and report when assisting with medication administration?",
+      "answer": "Monitor: Patient response (vital signs, symptom improvement/worsening), side effects (tachycardia after epinephrine, agitation after naloxone), allergic reactions, effectiveness of treatment. Report: Changes in consciousness, respiratory rate/quality, blood pressure, pulse, SpO2 readings, any adverse reactions. Document: Time, dose, route, patient response, vital signs before/after."
+    },
+    {
+      "id": "als_assist_15",
+      "question": "What are the EMT scope limitations when assisting with ALS interventions?",
+      "answer": "Cannot: Start IVs, administer most ALS medications (adenosine, midazolam, fentanyl), perform intubation, insert supraglottic airways, interpret ECGs, operate defibrillator settings, adjust drip rates. Can: Prepare equipment, assist with procedures, administer EMT-authorized medications, provide basic airway management, apply monitoring equipment. Always confirm tasks are within EMT training and local protocols."
+    }
+  ]
+}

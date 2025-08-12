@@ -1,0 +1,63 @@
+# Chapter 33: Environmental Emergencies Essentials
+
+## Introduction to Environmental Emergencies
+
+Environmental emergencies result from exposure to extreme temperatures, water, altitude, or hazardous substances. Recognition and appropriate intervention prevent serious complications and death.
+
+### Key Components of Environmental Assessment:
+- **Environmental conditions**: Temperature, humidity, wind, water exposure
+- **Duration of exposure**: Length of time in adverse conditions
+- **Patient's condition**: Core body temperature, mental status, skin findings
+- **Predisposing factors**: Age, medical conditions, medications, clothing
+
+### EMT-B Environmental Scope:
+- Temperature regulation through passive and active rewarming/cooling
+- Airway management for compromised patients
+- Fluid replacement preparation for heat emergencies
+- Spinal immobilization for water-related trauma
+- Scene safety assessment for ongoing hazards
+- Prevention of further heat loss or gain
+
+### Heat-Related Emergencies:
+- **Heat exhaustion**: Profuse sweating, weakness, nausea, normal mental status
+- **Heat stroke**: Altered mental status, hot skin, high body temperature
+- **Heat cramps**: Muscle spasms from salt and fluid loss
+- **Hyperthermia**: Core temperature >104°F (40°C), medical emergency
+
+### Cold-Related Emergencies:
+- **Hypothermia**: Core temperature <95°F (35°C), altered mental status
+- **Frostbite**: Tissue freezing, usually extremities and exposed areas
+- **Frostnip**: Superficial cold injury, skin red and painful
+- **Trench foot**: Prolonged exposure to cold, wet conditions
+
+### Heat Emergency Management:
+- **Remove from heat source**: Move to cool, shaded area
+- **Cooling methods**: Remove excess clothing, apply cool packs to neck, armpits, groin
+- **Fluid replacement**: Conscious patients may drink cool water
+- **Monitor vital signs**: Watch for signs of shock or deterioration
+
+### Cold Emergency Management:
+- **Remove from cold**: Move to warm environment when safe
+- **Handle gently**: Prevent further tissue damage from rough handling
+- **Passive rewarming**: Insulation, warm blankets, heated ambulance
+- **Protect frozen areas**: Do not rub, massage, or thaw if refreezing possible
+
+### Water Emergencies:
+- **Near-drowning**: Submersion with survival, potential hypoxia
+- **Diving injuries**: Spinal trauma from shallow water impacts
+- **Hypothermia**: Rapid heat loss in cold water
+- **Rescue breathing**: Begin immediately upon water removal
+
+### Lightning Injuries:
+- **Cardiac arrest**: Primary cause of death from lightning strikes
+- **Burns**: Entry and exit wounds, internal organ damage
+- **Neurological effects**: Confusion, paralysis, sensory loss
+- **Multiple casualties**: Reverse triage - treat "dead" first
+
+### Prevention Education:
+- **Heat safety**: Hydration, appropriate clothing, activity modification
+- **Cold safety**: Layered clothing, dry conditions, recognition of symptoms
+- **Water safety**: Swimming ability, life jacket use, diving precautions
+- **Lightning safety**: Indoor shelter, avoid metal objects and high areas
+
+Environmental emergency management emphasizes rapid recognition, appropriate temperature regulation, airway protection, and prevention of further environmental exposure while ensuring scene safety.

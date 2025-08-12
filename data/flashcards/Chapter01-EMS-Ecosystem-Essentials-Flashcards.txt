@@ -1,0 +1,61 @@
+# Chapter 1: EMS Ecosystem Essentials - Flashcards
+
+## Card 1
+**Q:** What are the four key components of the EMS system?
+**A:** First Responders (police, fire), EMTs (basic life support), Paramedics (advanced life support), and Emergency Departments (hospital-based care).
+
+## Card 2
+**Q:** What does the acronym AVPU stand for in patient assessment?
+**A:** Alert (awake and aware), Verbal (responds to verbal stimuli), Pain (responds only to painful stimuli), Unresponsive (no response to any stimuli).
+
+## Card 3
+**Q:** What is the normal respiratory rate range for adults?
+**A:** 12-20 breaths per minute.
+
+## Card 4
+**Q:** What is the normal pulse rate range for adults?
+**A:** 60-100 beats per minute.
+
+## Card 5
+**Q:** What is the normal systolic blood pressure range for adults?
+**A:** 90-140 mmHg.
+
+## Card 6
+**Q:** What is considered normal body temperature?
+**A:** 98.6°F (37°C).
+
+## Card 7
+**Q:** List three components of EMT-B scope of practice.
+**A:** Patient assessment using AVPU scale, basic airway management, oxygen administration, CPR and AED operation, basic trauma care, and limited medication assistance.
+
+## Card 8
+**Q:** What is the primary principle of EMS system operation?
+**A:** Rapid assessment, stabilization, and transport to appropriate medical facilities.
+
+## Card 9
+**Q:** What type of care do EMTs provide?
+**A:** Basic life support (BLS).
+
+## Card 10
+**Q:** What type of care do Paramedics provide?
+**A:** Advanced life support (ALS).
+
+## Card 11
+**Q:** In the AVPU scale, what does "Verbal" mean?
+**A:** The patient responds to verbal stimuli but is not fully alert.
+
+## Card 12
+**Q:** What is the normal diastolic blood pressure range?
+**A:** 60-90 mmHg (though the chapter focuses on systolic 90-140 mmHg as the key range).
+
+## Card 13
+**Q:** What are the main areas of EMT-B medication assistance?
+**A:** Limited scope medication assistance within approved protocols (specific medications covered in later chapters).
+
+## Card 14
+**Q:** What does "basic airway management" include for EMT-B?
+**A:** Airway opening maneuvers, oxygen administration, and basic airway adjuncts.
+
+## Card 15
+**Q:** What is the key difference between First Responders and EMTs?
+**A:** First Responders (police, fire) provide initial response, while EMTs provide basic life support and patient transport.

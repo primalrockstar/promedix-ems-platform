@@ -1,0 +1,64 @@
+# Chapter 34: Obstetrics and Neonatal Care Essentials
+
+## Introduction to Obstetrics and Neonatal Care
+
+Obstetric emergencies require specialized knowledge of pregnancy, labor, and delivery processes. EMT-B providers must be prepared to assist with emergency deliveries and neonatal resuscitation.
+
+### Key Components of Obstetric Assessment:
+- **Pregnancy history**: Gestational age, previous pregnancies, complications
+- **Labor assessment**: Contraction frequency, duration, intensity
+- **Delivery signs**: Crowning, urge to push, bloody show
+- **Emergency conditions**: Bleeding, prolapsed cord, breech presentation
+
+### EMT-B Obstetric Scope:
+- Emergency delivery assistance in field settings
+- Neonatal resuscitation and initial care
+- Postpartum hemorrhage control
+- Umbilical cord care and clamping
+- Patient comfort and psychological support
+- Transport decision-making for mother and infant
+
+### Normal Delivery Process:
+- **First stage**: Cervical dilation and effacement (onset to full dilation)
+- **Second stage**: Delivery of baby (full dilation to birth)
+- **Third stage**: Delivery of placenta (birth to placental expulsion)
+- **Fourth stage**: Recovery period (first 1-2 hours postpartum)
+
+### Emergency Delivery Management:
+- **Sterile technique**: Clean hands, sterile gloves, clean towels
+- **Positioning**: Supine with knees flexed and separated
+- **Crowning support**: Gentle hand pressure to control head delivery
+- **Airway clearance**: Suction mouth then nose immediately after head delivery
+
+### Neonatal Assessment (APGAR):
+- **Appearance**: Skin color (blue, pink, completely pink)
+- **Pulse**: Heart rate (<100, >100 bpm)
+- **Grimace**: Reflex irritability (none, grimace, cry)
+- **Activity**: Muscle tone (limp, some flexion, active motion)
+- **Respiratory effort**: (absent, slow/irregular, good cry)
+
+### Neonatal Resuscitation:
+- **Stimulation**: Dry and stimulate breathing by rubbing back
+- **Positioning**: Slight head-down position to drain secretions
+- **Suction**: Mouth first, then nose if needed
+- **Ventilation**: Bag-valve-mask if no respirations after stimulation
+
+### Obstetric Complications:
+- **Prolapsed cord**: Cord presents before baby, elevate hips, rapid transport
+- **Breech delivery**: Buttocks first, support body, do not pull
+- **Shoulder dystocia**: Shoulders stuck, McRoberts position
+- **Postpartum hemorrhage**: >500mL blood loss, massage fundus, rapid transport
+
+### Umbilical Cord Care:
+- **Timing**: Clamp after cord stops pulsating (1-3 minutes)
+- **Placement**: Clamps 4 inches apart, cut between clamps
+- **Sterile technique**: Use sterile scissors and clamps
+- **Bleeding control**: Ensure clamps are secure, check for bleeding
+
+### Postpartum Care:
+- **Fundal massage**: Prevent/control hemorrhage through uterine contraction
+- **Perineal inspection**: Check for tears requiring repair
+- **Vital signs**: Monitor for shock from blood loss
+- **Newborn care**: Keep warm, assess breathing, APGAR scoring
+
+Obstetric and neonatal emergency management emphasizes sterile technique, gentle assistance with natural processes, immediate newborn care, and rapid transport when complications arise.

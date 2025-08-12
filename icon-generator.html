@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProMedix EMS™ Icon Generator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2d3748;
+            margin-bottom: 10px;
+            font-size: 2.5rem;
+        }
+        .subtitle {
+            text-align: center;
+            color: #718096;
+            margin-bottom: 30px;
+        }
+        .icons-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        .icon-card {
+            background: #f8fafc;
+            border-radius: 15px;
+            padding: 25px;
+            text-align: center;
+            border: 2px solid #e2e8f0;
+            transition: all 0.3s ease;
+        }
+        .icon-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            border-color: #4299e1;
+        }
+        .icon-preview {
+            width: 150px;
+            height: 150px;
+            margin: 0 auto 20px;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .icon-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #2d3748;
+            margin-bottom: 10px;
+        }
+        .icon-description {
+            color: #718096;
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+        .download-btn {
+            background: #4299e1;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            margin: 5px;
+            transition: background 0.3s ease;
+        }
+        .download-btn:hover {
+            background: #3182ce;
+        }
+        .size-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        .size-btn {
+            background: #68d391;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+        .size-btn:hover {
+            background: #48bb78;
+        }
+        .disclaimer {
+            background: #fed7d7;
+            border-left: 4px solid #fc8181;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        .disclaimer h3 {
+            color: #c53030;
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏥 ProMedix EMS™ Icon Generator</h1>
+        <p class="subtitle">Professional medical emergency icons for your platform</p>
+        
+        <div class="disclaimer">
+            <h3>⚠️ Medical Disclaimer</h3>
+            <p>These icons are for educational platform branding only. Not for use as official medical symbols or emergency signage.</p>
+        </div>
+
+        <div class="icons-grid">
+            <!-- Main ProMedix Logo -->
+            <div class="icon-card">
+                <div class="icon-preview">
+                    <svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Medical Cross Background -->
+                        <circle cx="50" cy="50" r="45" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+                        <!-- Red Medical Cross -->
+                        <rect x="42" y="25" width="16" height="50" fill="#dc2626" rx="2"/>
+                        <rect x="25" y="42" width="50" height="16" fill="#dc2626" rx="2"/>
+                        <!-- EMS Text -->
+                        <text x="50" y="85" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">EMS</text>
+                    </svg>
+                </div>
+                <div class="icon-title">ProMedix Main Logo</div>
+                <div class="icon-description">Primary brand icon with medical cross and EMS text</div>
+                <button class="download-btn" onclick="downloadSVG('promedix-main', 'promedix-main-logo')">Download SVG</button>
+                <div class="size-buttons">
+                    <button class="size-btn" onclick="downloadPNG('promedix-main', 'promedix-main-16', 16)">16px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-main', 'promedix-main-32', 32)">32px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-main', 'promedix-main-64', 64)">64px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-main', 'promedix-main-128', 128)">128px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-main', 'promedix-main-256', 256)">256px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-main', 'promedix-main-512', 512)">512px</button>
+                </div>
+            </div>
+
+            <!-- Simplified Icon -->
+            <div class="icon-card">
+                <div class="icon-preview">
+                    <svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Gradient Background Circle -->
+                        <circle cx="50" cy="50" r="45" fill="url(#grad1)"/>
+                        <!-- White Medical Cross -->
+                        <rect x="42" y="25" width="16" height="50" fill="white" rx="3"/>
+                        <rect x="25" y="42" width="50" height="16" fill="white" rx="3"/>
+                        <!-- Gradient Definition -->
+                        <defs>
+                            <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="icon-title">Simplified Medical Icon</div>
+                <div class="icon-description">Clean medical cross for app icons and favicons</div>
+                <button class="download-btn" onclick="downloadSVG('promedix-simple', 'promedix-simple-icon')">Download SVG</button>
+                <div class="size-buttons">
+                    <button class="size-btn" onclick="downloadPNG('promedix-simple', 'promedix-simple-16', 16)">16px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-simple', 'promedix-simple-32', 32)">32px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-simple', 'promedix-simple-64', 64)">64px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-simple', 'promedix-simple-128', 128)">128px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-simple', 'promedix-simple-256', 256)">256px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-simple', 'promedix-simple-512', 512)">512px</button>
+                </div>
+            </div>
+
+            <!-- Stethoscope Icon -->
+            <div class="icon-card">
+                <div class="icon-preview">
+                    <svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Background -->
+                        <circle cx="50" cy="50" r="45" fill="url(#grad2)"/>
+                        <!-- Stethoscope -->
+                        <path d="M30 25 C25 25 20 30 20 35 C20 40 25 45 30 45 L35 45 L35 55 C35 65 43 73 53 73 C63 73 71 65 71 55 L71 45 C71 40 75 36 80 36 C82 36 84 38 84 40 C84 42 82 44 80 44 C78 44 76 42 76 40" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+                        <path d="M65 25 C70 25 75 30 75 35 C75 40 70 45 65 45 L60 45 L60 50" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+                        <circle cx="30" cy="35" r="8" fill="none" stroke="white" stroke-width="2"/>
+                        <circle cx="65" cy="35" r="8" fill="none" stroke="white" stroke-width="2"/>
+                        <defs>
+                            <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#4299e1;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#3182ce;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="icon-title">Medical Stethoscope</div>
+                <div class="icon-description">Professional medical device icon for healthcare apps</div>
+                <button class="download-btn" onclick="downloadSVG('promedix-stethoscope', 'promedix-stethoscope-icon')">Download SVG</button>
+                <div class="size-buttons">
+                    <button class="size-btn" onclick="downloadPNG('promedix-stethoscope', 'promedix-stethoscope-16', 16)">16px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-stethoscope', 'promedix-stethoscope-32', 32)">32px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-stethoscope', 'promedix-stethoscope-64', 64)">64px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-stethoscope', 'promedix-stethoscope-128', 128)">128px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-stethoscope', 'promedix-stethoscope-256', 256)">256px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-stethoscope', 'promedix-stethoscope-512', 512)">512px</button>
+                </div>
+            </div>
+
+            <!-- Ambulance Icon -->
+            <div class="icon-card">
+                <div class="icon-preview">
+                    <svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Background -->
+                        <circle cx="50" cy="50" r="45" fill="url(#grad3)"/>
+                        <!-- Ambulance Body -->
+                        <rect x="20" y="45" width="50" height="25" fill="white" rx="3"/>
+                        <!-- Ambulance Cab -->
+                        <rect x="20" y="35" width="25" height="15" fill="white" rx="2"/>
+                        <!-- Medical Cross -->
+                        <rect x="52" y="50" width="6" height="15" fill="#dc2626" rx="1"/>
+                        <rect x="48" y="54" width="14" height="6" fill="#dc2626" rx="1"/>
+                        <!-- Wheels -->
+                        <circle cx="30" cy="72" r="4" fill="#4a5568"/>
+                        <circle cx="60" cy="72" r="4" fill="#4a5568"/>
+                        <!-- Emergency Light -->
+                        <rect x="35" y="32" width="8" height="3" fill="#dc2626" rx="1"/>
+                        <defs>
+                            <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#48bb78;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#38a169;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="icon-title">EMS Ambulance</div>
+                <div class="icon-description">Emergency vehicle icon for EMS training platforms</div>
+                <button class="download-btn" onclick="downloadSVG('promedix-ambulance', 'promedix-ambulance-icon')">Download SVG</button>
+                <div class="size-buttons">
+                    <button class="size-btn" onclick="downloadPNG('promedix-ambulance', 'promedix-ambulance-16', 16)">16px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-ambulance', 'promedix-ambulance-32', 32)">32px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-ambulance', 'promedix-ambulance-64', 64)">64px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-ambulance', 'promedix-ambulance-128', 128)">128px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-ambulance', 'promedix-ambulance-256', 256)">256px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-ambulance', 'promedix-ambulance-512', 512)">512px</button>
+                </div>
+            </div>
+
+            <!-- Heart Monitor Icon -->
+            <div class="icon-card">
+                <div class="icon-preview">
+                    <svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Background -->
+                        <circle cx="50" cy="50" r="45" fill="url(#grad4)"/>
+                        <!-- Heart Monitor Line -->
+                        <path d="M15 50 L25 50 L30 30 L35 70 L40 20 L45 80 L50 50 L55 50 L85 50" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                        <!-- Heart -->
+                        <path d="M65 40 C65 35 70 30 75 35 C80 30 85 35 85 40 C85 50 75 60 75 60 C75 60 65 50 65 40 Z" fill="#dc2626"/>
+                        <defs>
+                            <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="icon-title">Heart Monitor</div>
+                <div class="icon-description">Cardiac monitoring icon for medical applications</div>
+                <button class="download-btn" onclick="downloadSVG('promedix-monitor', 'promedix-monitor-icon')">Download SVG</button>
+                <div class="size-buttons">
+                    <button class="size-btn" onclick="downloadPNG('promedix-monitor', 'promedix-monitor-16', 16)">16px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-monitor', 'promedix-monitor-32', 32)">32px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-monitor', 'promedix-monitor-64', 64)">64px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-monitor', 'promedix-monitor-128', 128)">128px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-monitor', 'promedix-monitor-256', 256)">256px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-monitor', 'promedix-monitor-512', 512)">512px</button>
+                </div>
+            </div>
+
+            <!-- Shield Medical Icon -->
+            <div class="icon-card">
+                <div class="icon-preview">
+                    <svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Shield Background -->
+                        <path d="M50 10 L75 25 L75 50 C75 70 50 85 50 85 C50 85 25 70 25 50 L25 25 Z" fill="url(#grad5)"/>
+                        <!-- Medical Cross -->
+                        <rect x="46" y="30" width="8" height="30" fill="white" rx="2"/>
+                        <rect x="35" y="44" width="30" height="8" fill="white" rx="2"/>
+                        <defs>
+                            <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="icon-title">Medical Shield</div>
+                <div class="icon-description">Protection and safety icon for medical platforms</div>
+                <button class="download-btn" onclick="downloadSVG('promedix-shield', 'promedix-shield-icon')">Download SVG</button>
+                <div class="size-buttons">
+                    <button class="size-btn" onclick="downloadPNG('promedix-shield', 'promedix-shield-16', 16)">16px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-shield', 'promedix-shield-32', 32)">32px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-shield', 'promedix-shield-64', 64)">64px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-shield', 'promedix-shield-128', 128)">128px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-shield', 'promedix-shield-256', 256)">256px</button>
+                    <button class="size-btn" onclick="downloadPNG('promedix-shield', 'promedix-shield-512', 512)">512px</button>
+                </div>
+            </div>
+        </div>
+
+        <div style="text-align: center; margin-top: 30px; color: #718096;">
+            <p><strong>ProMedix EMS™ Icon Generator</strong> - Professional medical icons for your educational platform</p>
+            <p style="font-size: 0.9rem;">⚠️ For educational platform branding only. Always follow local medical guidelines.</p>
+        </div>
+    </div>
+
+    <script>
+        function downloadSVG(iconType, filename) {
+            const svg = getSVGContent(iconType);
+            const blob = new Blob([svg], {type: 'image/svg+xml'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename + '.svg';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        function downloadPNG(iconType, filename, size) {
+            const svg = getSVGContent(iconType);
+            const canvas = document.createElement('canvas');
+            const ctx = canvas.getContext('2d');
+            const img = new Image();
+            
+            canvas.width = size;
+            canvas.height = size;
+            
+            const svgBlob = new Blob([svg], {type: 'image/svg+xml;charset=utf-8'});
+            const url = URL.createObjectURL(svgBlob);
+            
+            img.onload = function() {
+                ctx.drawImage(img, 0, 0, size, size);
+                canvas.toBlob(function(blob) {
+                    const a = document.createElement('a');
+                    a.href = URL.createObjectURL(blob);
+                    a.download = filename + '.png';
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                    URL.revokeObjectURL(url);
+                });
+            };
+            
+            img.src = url;
+        }
+
+        function getSVGContent(iconType) {
+            const svgTemplates = {
+                'promedix-main': `<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="50" cy="50" r="45" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+                    <rect x="42" y="25" width="16" height="50" fill="#dc2626" rx="2"/>
+                    <rect x="25" y="42" width="50" height="16" fill="#dc2626" rx="2"/>
+                    <text x="50" y="85" text-anchor="middle" fill="#4a5568" font-family="Arial, sans-serif" font-size="12" font-weight="bold">EMS</text>
+                </svg>`,
+                
+                'promedix-simple': `<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+                            <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
+                        </linearGradient>
+                    </defs>
+                    <circle cx="50" cy="50" r="45" fill="url(#grad1)"/>
+                    <rect x="42" y="25" width="16" height="50" fill="white" rx="3"/>
+                    <rect x="25" y="42" width="50" height="16" fill="white" rx="3"/>
+                </svg>`,
+                
+                'promedix-stethoscope': `<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#4299e1;stop-opacity:1" />
+                            <stop offset="100%" style="stop-color:#3182ce;stop-opacity:1" />
+                        </linearGradient>
+                    </defs>
+                    <circle cx="50" cy="50" r="45" fill="url(#grad2)"/>
+                    <path d="M30 25 C25 25 20 30 20 35 C20 40 25 45 30 45 L35 45 L35 55 C35 65 43 73 53 73 C63 73 71 65 71 55 L71 45 C71 40 75 36 80 36 C82 36 84 38 84 40 C84 42 82 44 80 44 C78 44 76 42 76 40" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+                    <path d="M65 25 C70 25 75 30 75 35 C75 40 70 45 65 45 L60 45 L60 50" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+                    <circle cx="30" cy="35" r="8" fill="none" stroke="white" stroke-width="2"/>
+                    <circle cx="65" cy="35" r="8" fill="none" stroke="white" stroke-width="2"/>
+                </svg>`,
+                
+                'promedix-ambulance': `<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#48bb78;stop-opacity:1" />
+                            <stop offset="100%" style="stop-color:#38a169;stop-opacity:1" />
+                        </linearGradient>
+                    </defs>
+                    <circle cx="50" cy="50" r="45" fill="url(#grad3)"/>
+                    <rect x="20" y="45" width="50" height="25" fill="white" rx="3"/>
+                    <rect x="20" y="35" width="25" height="15" fill="white" rx="2"/>
+                    <rect x="52" y="50" width="6" height="15" fill="#dc2626" rx="1"/>
+                    <rect x="48" y="54" width="14" height="6" fill="#dc2626" rx="1"/>
+                    <circle cx="30" cy="72" r="4" fill="#4a5568"/>
+                    <circle cx="60" cy="72" r="4" fill="#4a5568"/>
+                    <rect x="35" y="32" width="8" height="3" fill="#dc2626" rx="1"/>
+                </svg>`,
+                
+                'promedix-monitor': `<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+                            <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+                        </linearGradient>
+                    </defs>
+                    <circle cx="50" cy="50" r="45" fill="url(#grad4)"/>
+                    <path d="M15 50 L25 50 L30 30 L35 70 L40 20 L45 80 L50 50 L55 50 L85 50" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M65 40 C65 35 70 30 75 35 C80 30 85 35 85 40 C85 50 75 60 75 60 C75 60 65 50 65 40 Z" fill="#dc2626"/>
+                </svg>`,
+                
+                'promedix-shield': `<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+                            <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+                        </linearGradient>
+                    </defs>
+                    <path d="M50 10 L75 25 L75 50 C75 70 50 85 50 85 C50 85 25 70 25 50 L25 25 Z" fill="url(#grad5)"/>
+                    <rect x="46" y="30" width="8" height="30" fill="white" rx="2"/>
+                    <rect x="35" y="44" width="30" height="8" fill="white" rx="2"/>
+                </svg>`
+            };
+            
+            return svgTemplates[iconType] || svgTemplates['promedix-simple'];
+        }
+    </script>
+</body>
+</html>

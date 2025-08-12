@@ -1,0 +1,61 @@
+# Chapter 12: Medication Administration Essentials - Flashcards
+
+## Card 1
+**Q:** What are the four EMT-B approved medications?
+**A:** Oxygen, Aspirin, Nitroglycerin (assist only), and Epinephrine Auto-injector.
+
+## Card 2
+**Q:** What is the indication for aspirin administration?
+**A:** Chest pain suspicious for myocardial infarction (MI).
+
+## Card 3
+**Q:** What is the correct aspirin dosage for chest pain?
+**A:** 324 mg (4 baby aspirin), chewed.
+
+## Card 4
+**Q:** What are the contraindications for aspirin?
+**A:** Allergy to aspirin, active bleeding, pediatric use.
+
+## Card 5
+**Q:** What is the oxygen flow rate range for a nasal cannula?
+**A:** 2-15 LPM (liters per minute) as needed.
+
+## Card 6
+**Q:** What is the epinephrine auto-injector adult dose?
+**A:** 0.3 mg intramuscular.
+
+## Card 7
+**Q:** What is the epinephrine auto-injector pediatric dose?
+**A:** 0.15 mg intramuscular.
+
+## Card 8
+**Q:** What is the indication for epinephrine auto-injector?
+**A:** Severe allergic reactions (anaphylaxis).
+
+## Card 9
+**Q:** What are the contraindications for nitroglycerin?
+**A:** Systolic BP < 100 mmHg, erectile dysfunction medication use.
+
+## Card 10
+**Q:** What is the nitroglycerin dosage and route?
+**A:** 0.4 mg sublingual (under the tongue).
+
+## Card 11
+**Q:** What are the 5 medication administration guidelines?
+**A:** 1) Verify patient identity and medication, 2) Check expiration dates, 3) Confirm proper dosage, 4) Monitor patient response, 5) Document administration accurately.
+
+## Card 12
+**Q:** What is the route for oxygen administration?
+**A:** Inhalation.
+
+## Card 13
+**Q:** Are there any contraindications for oxygen in emergency settings?
+**A:** None in emergency settings.
+
+## Card 14
+**Q:** What is the route for aspirin administration?
+**A:** Oral (chewed for faster absorption).
+
+## Card 15
+**Q:** What is the most important principle in medication administration?
+**A:** Patient safety is paramount in all medication administration procedures.

@@ -1,0 +1,38 @@
+# Chapter 15: Medical Overview Essentials
+
+## Introduction to Medical Emergencies
+
+Medical emergencies require systematic assessment and evidence-based interventions within EMT-B scope of practice. Understanding pathophysiology guides appropriate treatment decisions.
+
+### Key Components of Medical Assessment:
+- **Primary Assessment**: Airway, breathing, circulation (ABC)
+- **Secondary Assessment**: Focused history and physical exam
+- **Vital Signs Monitoring**: Continuous assessment of patient status
+- **Treatment Prioritization**: Life-threatening conditions first
+
+### EMT-B Medical Scope:
+- Patient assessment using systematic approach
+- Basic airway management and oxygen therapy
+- Medication assistance within approved protocols
+- CPR and automated external defibrillation
+- Basic wound care and bleeding control
+- Patient stabilization and transport preparation
+
+### Medical Assessment Priorities:
+- **Life-threatening conditions**: Airway compromise, respiratory failure, shock
+- **Urgent conditions**: Chest pain, altered mental status, severe pain
+- **Non-urgent conditions**: Minor injuries, stable chronic conditions
+
+### Chief Complaint Assessment:
+- **OPQRST Method**: Onset, Provocation, Quality, Radiation, Severity, Time
+- **SAMPLE History**: Signs/symptoms, Allergies, Medications, Past medical history, Last meal, Events
+- **Documentation**: Accurate recording of findings and interventions
+
+### Vital Signs Standards:
+- Blood pressure: Normal 90-140 systolic, 60-90 diastolic
+- Pulse rate: 60-100 beats per minute (adult)
+- Respiratory rate: 12-20 breaths per minute (adult)
+- Temperature: 98.6°F (37°C) ± 1°F normal range
+- Oxygen saturation: 95-100% on room air
+
+Medical emergency management follows established protocols with emphasis on rapid recognition, appropriate intervention, and timely transport to definitive care.

@@ -1,0 +1,51 @@
+# Chapter 26: Bleeding Emergencies Essentials
+
+## Introduction to Bleeding Emergencies
+
+Hemorrhage control is a fundamental EMT-B skill that can be life-saving. Understanding bleeding types and appropriate interventions is critical for patient survival.
+
+### Key Components of Bleeding Assessment:
+- **Bleeding severity**: Life-threatening vs. minor hemorrhage
+- **Bleeding source**: External vs. internal bleeding
+- **Patient stability**: Vital signs and perfusion status
+- **Mechanism of injury**: Sharp objects, blunt trauma, medical conditions
+
+### EMT-B Bleeding Control Scope:
+- Direct pressure application to bleeding sites
+- Pressure point utilization for extremity bleeding
+- Tourniquet application for severe extremity hemorrhage
+- Hemostatic agent application when available
+- Shock recognition and basic management
+- Rapid transport coordination
+
+### Types of External Bleeding:
+- **Arterial**: Bright red, spurting blood with pulse
+- **Venous**: Dark red, steady flow of blood
+- **Capillary**: Slow oozing, minimal blood loss
+- **Mixed**: Combination of arterial and venous bleeding
+
+### Bleeding Control Methods:
+- **Direct pressure**: First-line treatment, gauze pads with firm pressure
+- **Elevation**: Raise injured extremity above heart level when possible
+- **Pressure points**: Compress artery against bone to reduce flow
+- **Tourniquet**: Last resort for severe extremity bleeding
+
+### Tourniquet Application:
+- **Indications**: Severe extremity bleeding uncontrolled by direct pressure
+- **Placement**: 2-3 inches above wound, never over joints
+- **Tightening**: Until bleeding stops completely
+- **Documentation**: Time of application, reassessment intervals
+
+### Internal Bleeding Signs:
+- **Abdominal**: Rigid abdomen, guarding, referred pain
+- **Chest**: Difficulty breathing, decreased breath sounds
+- **General**: Pale skin, weak pulse, altered mental status
+- **Management**: Position of comfort, rapid transport, IV access preparation
+
+### Shock Progression:
+- **Class I**: <15% blood loss, minimal symptoms
+- **Class II**: 15-30% loss, increased heart rate, anxiety
+- **Class III**: 30-40% loss, hypotension, confusion
+- **Class IV**: >40% loss, unconsciousness, cardiac arrest
+
+Bleeding emergency management prioritizes rapid hemorrhage control, shock prevention, and expedited transport while maintaining scene safety and infection control protocols.

@@ -1,0 +1,49 @@
+# Chapter 20: Endocrine and Hematologic Emergencies Essentials
+
+## Introduction to Endocrine and Hematologic Emergencies
+
+Endocrine and hematologic emergencies involve disruptions in hormone regulation and blood component disorders. These conditions require rapid recognition and appropriate EMT-B interventions.
+
+### Key Components of Endocrine Assessment:
+- **Blood glucose monitoring**: Using glucometer when available
+- **Mental status evaluation**: Altered consciousness indicators
+- **Vital signs assessment**: Temperature, blood pressure changes
+- **Medication history**: Insulin, oral hypoglycemics, steroids
+
+### EMT-B Endocrine Scope:
+- Blood glucose testing (where protocols allow)
+- Oral glucose administration for conscious hypoglycemic patients
+- Patient positioning and airway management
+- Rapid transport for definitive treatment
+- Documentation of findings and interventions
+
+### Common Endocrine Emergencies:
+- **Hypoglycemia**: Blood glucose < 70 mg/dL, altered mental status
+- **Hyperglycemia**: Blood glucose > 250 mg/dL, dehydration, altered mental status
+- **Diabetic ketoacidosis (DKA)**: Severe hyperglycemia with ketones
+- **Hyperosmolar hyperglycemic state**: Extreme hyperglycemia without ketones
+
+### Hypoglycemia Management:
+- **Conscious patient**: Oral glucose 15-20 grams
+- **Unconscious patient**: Maintain airway, rapid transport
+- **Signs**: Sweating, shakiness, confusion, hunger
+- **Contraindications**: Unconscious patient, swallowing difficulties
+
+### Hematologic Emergency Components:
+- **Anemia**: Reduced red blood cell count or hemoglobin
+- **Bleeding disorders**: Abnormal clotting function
+- **Sickle cell crisis**: Painful episodes in sickle cell disease
+- **Thrombosis**: Blood clot formation complications
+
+### Blood Glucose Normal Values:
+- Normal fasting: 70-100 mg/dL
+- Normal random: 70-140 mg/dL
+- Hypoglycemic: < 70 mg/dL
+- Hyperglycemic: > 180 mg/dL (postprandial)
+
+### Recognition Signs:
+- **Hypoglycemic**: Diaphoresis, tachycardia, confusion, hunger
+- **Hyperglycemic**: Polyuria, polydipsia, fruity breath odor, dehydration
+- **Hematologic**: Pallor, weakness, abnormal bleeding, pain
+
+Endocrine and hematologic emergency management focuses on rapid assessment, glucose correction when appropriate, and expedited transport to advanced care facilities.

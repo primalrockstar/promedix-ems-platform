@@ -1,0 +1,46 @@
+# Chapter 25: Trauma Overview Essentials
+
+## Introduction to Trauma Emergencies
+
+Trauma is the leading cause of death in patients under 45 years old. Systematic assessment and rapid intervention within EMT-B scope can significantly improve patient outcomes.
+
+### Key Components of Trauma Assessment:
+- **Mechanism of injury (MOI)**: Understanding how injury occurred
+- **Primary survey**: Airway, breathing, circulation, disability, exposure
+- **Secondary survey**: Head-to-toe systematic examination
+- **Vital signs trending**: Continuous monitoring for deterioration
+
+### EMT-B Trauma Scope:
+- Spinal immobilization and cervical spine protection
+- Airway management with C-spine precautions
+- Hemorrhage control using direct pressure
+- Shock recognition and basic management
+- Splinting of suspected fractures
+- Rapid transport decision-making
+
+### Trauma Mechanisms:
+- **Blunt trauma**: Motor vehicle crashes, falls, sports injuries
+- **Penetrating trauma**: Gunshot wounds, stabbings, impalement
+- **Burn injuries**: Thermal, chemical, electrical burns
+- **Blast injuries**: Explosions causing multiple injury types
+
+### Primary Survey (ABCDE):
+- **Airway**: Maintain with C-spine protection
+- **Breathing**: Assess rate, depth, bilateral chest rise
+- **Circulation**: Control bleeding, assess perfusion
+- **Disability**: Brief neurological assessment (AVPU)
+- **Exposure**: Remove clothing to assess injuries, prevent hypothermia
+
+### Shock Recognition:
+- **Compensated shock**: Increased heart rate, normal blood pressure
+- **Decompensated shock**: Decreased blood pressure, altered mental status
+- **Signs**: Weak pulse, pale skin, delayed capillary refill
+- **Management**: Control bleeding, elevate legs, rapid transport
+
+### Transport Decisions:
+- **Load and go**: Unstable vital signs, penetrating trauma to torso
+- **Stay and play**: Stable patients with isolated injuries
+- **Golden hour**: Critical trauma patients need definitive care within 60 minutes
+- **Trauma centers**: Appropriate facility selection based on injury severity
+
+Trauma management follows systematic protocols emphasizing rapid assessment, life-threatening injury identification, and timely transport to appropriate trauma care facilities.
